@@ -1,2 +1,2 @@
-# hellow-world-dwa
+# hello-world-dwa
 hello-world for dwa class
